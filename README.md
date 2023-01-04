@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jpa203
-- 👀 I’m interested in data journalism/data science.
-- 🌱 I’m currently learning Python, R, Data Visualization, Web/Text Scraping, NLPs and Data Mining.
+- 👋 Hi, I’m Jean Paul Azzopardi
+- I'm a graduate student at Boston University passionate about data analytics and journalism. 
+- On my Github, you'll find a selection of data analytics/science projects I have worked on. 
 - 📫 How to reach me - jeanpaulazzopardi@gmail.com
 
 <!---
