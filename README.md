@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean Paul Azzopardi
-- I'm a graduate student at Boston University passionate about data analytics and science.
-- On my Github, you'll find a selection of data analytics/science projects I have worked on. 
+- I'm a graduate student at Boston University passionate about data engineering and analytics. 
+- On my Github, you'll find a selection of data projects I have worked on. 
 - 📫 How to reach me - jeanpaulazzopardi@gmail.com
 
 <!---
